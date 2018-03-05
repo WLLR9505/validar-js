@@ -1,0 +1,18 @@
+#renderArea {
+    position: absolute;
+    height: 95%;
+    width: 95%;
+    background-color: azure;
+}
+
+form {
+    position: absolute;
+    left: 25%;
+    top: 50%;
+}
+
+input {
+    font-family: consolas;
+    font-weight: bold;
+    font-size: 14px;
+}
