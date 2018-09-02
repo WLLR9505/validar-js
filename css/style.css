@@ -3,16 +3,18 @@
     height: 95%;
     width: 95%;
     background-color: azure;
+    text-align: center;
 }
 
 form {
-    position: absolute;
-    left: 25%;
-    top: 50%;
+    position: relative;
+    text-align: center;
+    top: 45%;
 }
 
 input {
     font-family: consolas;
     font-weight: bold;
     font-size: 14px;
+    margin-top: 2%;
 }
