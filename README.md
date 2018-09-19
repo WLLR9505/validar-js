@@ -1,5 +1,9 @@
 ### Validador
 
+Um simples validador de e-mail por JavaScript, onde a caixa de texto muda de cor conforme o conteúdo é inserido.  
+
+> [Preview](https://wllr9505.github.io/validar-js/)  
+
 Um simples validador de e-mail por JavaScript, onde a caixa de texto muda de cor conforme o conteúdo é inserido.
 
 | sinal     | motivo                                                                        |
