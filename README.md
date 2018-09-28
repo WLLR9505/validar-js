@@ -15,7 +15,7 @@ Um simples validador de e-mail por JavaScript, onde a caixa de texto muda de cor
 
  ## Exemplos de teste
 
-|   sinal    |                                              Exemplo               |
+|   sinal                          <td colspan=3>Exemplos</td>                    |
 | -          |                                     -                              |
 | PRETO      | !                    | wllr$                | wllr&#64;#mail.com   |
 | VERMELHO   | w                    | wl                   | wllr                 |
