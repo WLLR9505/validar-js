@@ -1,8 +1,13 @@
+body, html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
 #renderArea {
-    position: absolute;
-    height: 95%;
-    width: 95%;
-    background-color: azure;
+    color: #ffffff;
+    height: 90%;
+    background-color: #272733;
     text-align: center;
 }
 
@@ -17,4 +22,21 @@ input {
     font-weight: bold;
     font-size: 14px;
     margin-top: 2%;
+    width: 80%;
+}
+
+#footer {
+    position: fixed;
+    text-align: center;
+    background-color: #16161d;
+    padding-bottom: 4vh;
+    padding-top: 4vh;
+    height: 10%;
+    width: 100%;
+    margin: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
