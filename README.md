@@ -1,4 +1,5 @@
 ### Validador
+[![CodeFactor](https://www.codefactor.io/repository/github/wllr9505/validar-js/badge/master)](https://www.codefactor.io/repository/github/wllr9505/validar-js/overview/master) 
 
 Um simples validador de e-mail por JavaScript, onde a caixa de texto muda de cor conforme o conteúdo é inserido.  
 
@@ -15,8 +16,8 @@ Um simples validador de e-mail por JavaScript, onde a caixa de texto muda de cor
 
  ## Exemplos de teste
 
-|   sinal                          <td colspan=3>Exemplos</td>                    |
-| -          |                                     -                              |
+|   sinal    |                      |     Exemplos         |                      |
+| -          |           -          |          -           |          -           |
 | PRETO      | !                    | wllr$                | wllr&#64;#mail.com   |
 | VERMELHO   | w                    | wl                   | wllr                 |
 | AMARELO    | wllr@                | wllr&#64;mail        | wllr@mailcom         |
